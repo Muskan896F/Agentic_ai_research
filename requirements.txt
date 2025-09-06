@@ -1,0 +1,15 @@
+openai
+langchain
+requests
+httpx
+beautifulsoup4
+lxml
+faiss-cpu
+# pinecone-client   # Uncomment if you use Pinecone
+pandas
+python-dotenv
+pyyaml
+markdown2
+reportlab
+loguru
+pytest
