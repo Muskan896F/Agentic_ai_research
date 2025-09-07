@@ -1,0 +1,239 @@
+2025-09-07 10:31:36.586 | WARNING  | __main__:load_config:39 - ⚠️ No config.yaml found, using defaults.
+2025-09-07 10:31:36.587 | INFO     | __main__:<module>:50 - 🚀 Starting Agentic Research on: Top React Native libraries in 2025
+2025-09-07 10:31:36.589 | INFO     | orchestrator:run:32 - 🚀 Starting research on: Top React Native libraries in 2025
+2025-09-07 10:31:36.589 | WARNING  | agents.task_breaker:break_into_tasks:92 - TaskBreaker LLM path failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+. Falling back to heuristics.
+2025-09-07 10:31:36.591 | INFO     | orchestrator:run:44 - 📝 Processing task t1: Top React Native libraries in 2025
+2025-09-07 10:31:36.592 | INFO     | agents.web_searcher:search_for_task:32 - 🔎 Searching for task: Top React Native libraries in 2025
+2025-09-07 10:31:50.769 | INFO     | agents.web_searcher:search_for_task:68 - ✅ Found 10 pages for task.
+2025-09-07 10:31:50.770 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://strapi.io/blog/top-react-libraries: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.771 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://dev.to/aneeqakhan/top-5-react-native-ui-libraries-for-stunning-mobile-apps-36n3: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.771 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://medium.com/@theNewGenCoder/top-8-react-libraries-tools-you-need-to-know-in-2025-7367721cd5ff: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.772 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://www.reddit.com/r/reactnative/comments/1lc7q37/best_crossplatform_ui_library_in_2025/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.772 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://www.reddit.com/r/reactnative/comments/1hzw7g3/best_ui_library_for_react_native/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.773 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://blog.logrocket.com/best-react-native-ui-component-libraries/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.774 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://wpshout.com/react-native-component-libraries/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.774 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://dev.to/myogeshchavan97/top-10-react-librariesframeworks-for-2025-50i4: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.775 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://medium.com/@md.alishanali/10-must-have-react-native-libraries-for-peak-performance-in-2025-42bf7bd5e8c9: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.775 | WARNING  | agents.summarizer:summarize_task:75 - ⚠️ Summarization failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:31:50.777 | INFO     | agents.report_writer:save_markdown:66 - ✅ Markdown report saved to reports/top_react_native_libraries_in_2025.md
+2025-09-07 10:31:50.819 | INFO     | agents.report_writer:save_html:79 - ✅ HTML report saved to reports/top_react_native_libraries_in_2025.html
+2025-09-07 10:33:31.057 | WARNING  | __main__:load_config:39 - ⚠️ No config.yaml found, using defaults.
+2025-09-07 10:33:31.058 | INFO     | __main__:<module>:50 - 🚀 Starting Agentic Research on: Top React Native libraries in 2025
+2025-09-07 10:33:31.059 | INFO     | orchestrator:run:32 - 🚀 Starting research on: Top React Native libraries in 2025
+2025-09-07 10:33:31.059 | WARNING  | agents.task_breaker:break_into_tasks:92 - TaskBreaker LLM path failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+. Falling back to heuristics.
+2025-09-07 10:33:31.061 | INFO     | orchestrator:run:44 - 📝 Processing task t1: Top React Native libraries in 2025
+2025-09-07 10:33:31.061 | INFO     | agents.web_searcher:search_for_task:32 - 🔎 Searching for task: Top React Native libraries in 2025
+2025-09-07 10:33:45.350 | INFO     | agents.web_searcher:search_for_task:68 - ✅ Found 10 pages for task.
+2025-09-07 10:33:45.350 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://strapi.io/blog/top-react-libraries: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.351 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://dev.to/aneeqakhan/top-5-react-native-ui-libraries-for-stunning-mobile-apps-36n3: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.352 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://medium.com/@theNewGenCoder/top-8-react-libraries-tools-you-need-to-know-in-2025-7367721cd5ff: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.352 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://www.reddit.com/r/reactnative/comments/1lc7q37/best_crossplatform_ui_library_in_2025/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.353 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://blog.cubed.run/10-react-native-libraries-i-cant-live-without-in-2025-0bc5b9851ae6: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.354 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://blog.logrocket.com/best-react-native-ui-component-libraries/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.354 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://medium.com/@md.alishanali/10-must-have-react-native-libraries-for-peak-performance-in-2025-42bf7bd5e8c9: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.355 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://wpshout.com/react-native-component-libraries/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.355 | WARNING  | agents.data_filter:filter_relevant:79 - ⚠️ Extraction failed for https://www.robinwieruch.de/react-libraries/: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.356 | WARNING  | agents.summarizer:summarize_task:75 - ⚠️ Summarization failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-09-07 10:33:45.359 | INFO     | agents.report_writer:save_markdown:63 - ✅ Markdown report saved to reports/top_react_native_libraries_in_2025.md
+2025-09-07 10:33:45.409 | INFO     | agents.report_writer:save_html:73 - ✅ HTML report saved to reports/top_react_native_libraries_in_2025.html
+2025-09-07 10:33:45.444 | INFO     | agents.report_writer:save_pdf:79 - ✅ PDF report saved to reports\top_react_native_libraries_in_2025.pdf
+2025-09-07 10:33:45.445 | INFO     | orchestrator:run:67 - ✅ Research complete. Report saved: reports/top_react_native_libraries_in_2025.md
+2025-09-07 10:33:45.447 | INFO     | __main__:<module>:58 - 🎯 Pipeline finished successfully.
